@@ -1,2 +1,2 @@
-# syde-192
+# SYDE 192 - Digital Systems
 My work in the Systems Design Engineering Digital Systems course. Course content focuses on C and Assembly programming languages
